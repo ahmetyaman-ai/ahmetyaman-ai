@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmet Yaman  
+#  Hi, I'm Ahmet Yaman  
 ### **Senior .NET Developer | Fintech & Payment Systems Specialist**  
 Istanbul, Turkey  
 
