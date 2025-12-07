@@ -11,7 +11,7 @@ I have designed and developed **high-volume backend services**, campaign engines
 
 - **Dgpays**
 - **MetLife**
-- **TMSF / Bankasya**
+- **TMSF **
 - **Toksoz Group (Sanovel, Arven, Sanset Gıda, Pernigotti IT)**
 - **Kayseri Ulaşım A.Ş**
 - **Acıbadem Healthcare**
